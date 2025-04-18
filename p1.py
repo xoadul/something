@@ -1,0 +1,1 @@
+print('hello nuha ' * 5)

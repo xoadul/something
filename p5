@@ -1,0 +1,11 @@
+# integers: 
+# integers is whole numers:
+
+
+age=18
+quantity=4
+
+print (f"you are selling {quantity} in your shop")
+print (f"your age is {age} years old")
+
+                              #the end.

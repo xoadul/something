@@ -1,0 +1,11 @@
+# this is my first python program
+
+print ('this is me roshan')
+print ("i study in 12th class")
+print ("i go to collage on car")
+print (" i like chocolate")
+print ("ur so pretty")
+
+
+# varibles: a container for value (string, integer, float, boolean )
+#           a varile ehaves as if it was the it contains 
